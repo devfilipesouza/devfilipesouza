@@ -1,6 +1,7 @@
-## Hi there 👋
-
 <!--
+### Hi there 👋
+- 🔭 I’m currently studying on Estácio do Recife
+
 **devfilipesouza/devfilipesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Languages and Tools:</summary>
+<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python"/></code>
+<img width="25" height="25" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg" title="C" alt="C"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" title="Arduino" alt="Arduino"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
+
+
+## ⚡ Github Stats</b></summary>
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfilipesouzae&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfilipesouza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
