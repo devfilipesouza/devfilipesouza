@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg" title="C" alt="C"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
-<img width="25" height="25" src="https://icons8.com.br/icon/laYYF3dV0Iew/servidor-microsoft-sql" title="SQL_Server" alt="SQL_Server"/></code>
+<img width="25" height="25" src="![image](https://github.com/user-attachments/assets/51f8649e-6deb-434c-af8d-b336fe883eb8)" title="SQL_Server" alt="SQL_Server"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
