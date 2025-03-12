@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg" title="C" alt="C"/></code>
+<img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu"/></code>
