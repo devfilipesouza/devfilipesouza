@@ -1,36 +1,23 @@
-# Olá, eu sou o Filipe Souza! 👋
-
-<p align="left">
-  <a href="https://github.com/devfilipesouza">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devfilipesouza&show_icons=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub de Filipe Souza" />
-  </a>
-  <a href="https://github.com/devfilipesouza">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfilipesouza&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas por Filipe Souza"/>
-  </a>
-</p>
-
-<br>
+# Olá, eu sou o Filipe! 👋
 
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  Sou um desenvolvedor de software apaixonado por tecnologia e por criar soluções que impactam positivamente a vida das pessoas. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Estácio de Recife, sempre em busca de novos conhecimentos e desafios.
+  Sou um profissional tecnologia apaixonado por dados, inovação e soluções eficientes. Com experiência em Operações, Gestão e TI, focado em otimizar processos e impulsionar a eficiência através da tecnologia. 
 </p>
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **Java com Spring Boot** e **React**.
-- 🔭 Busco minha primeira oportunidade para atuar como desenvolvedor e aplicar minhas habilidades em projetos reais.
-- 💬 Fique à vontade para me perguntar sobre **Python, Java, e desenvolvimento web**.
+-  📚 Atualmente Pós-graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Softwares
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Estácio Recife
+- Bootcamp Santander Open Academy 2025 - Java Backend
+- 🌱 Atualmente estou aprofundando meus conhecimentos em Sistemas SAP, Cloud, Devops e QA
 - 📫 Você pode me encontrar no LinkedIn!
-
-<br>
 
 ## 🔗 Conecte-se comigo
 <p align="left">
-  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:SEU-EMAIL-AQUI@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/filipe-souza-925077234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:filipe.svito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<br>
 
 ## 🚀 Languages and Tools:</summary>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python"/></code>
