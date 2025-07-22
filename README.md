@@ -6,11 +6,12 @@
   Sou um profissional tecnologia apaixonado por dados, inovação e soluções eficientes. Com experiência em Operações, Gestão e TI, focado em otimizar processos e impulsionar a eficiência através da tecnologia. 
 </p>
 
--  📚 Atualmente Pós-graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Softwares na Anhanguera
+- 📚 Pós-graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Softwares na Anhanguera
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Estácio Recife
 - 👨‍💻 Participando do Bootcamp Santander Open Academy 2025 - Java Backend
 - 🌱 Atualmente estou aprofundando meus conhecimentos em Sistemas SAP, Cloud, Devops e QA
 - 📫 Você pode me encontrar no LinkedIn!
+
 
 ## 🚀 Languages and Tools:</summary>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python"/></code>
