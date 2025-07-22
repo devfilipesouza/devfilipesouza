@@ -27,10 +27,12 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" title="Arduino" alt="Arduino"/></code>
 
+
 ## ⚡ Github Stats</b></summary>
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfilipesouza&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
 </div>
+
 
 ## 🔗 Conecte-se comigo
 <p align="left">
