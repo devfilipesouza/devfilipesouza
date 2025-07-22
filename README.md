@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  Sou um profissional tecnologia apaixonado por dados, inovação e soluções eficientes. Com experiência em Operações, Gestão e TI, focado em otimizar processos e impulsionar a eficiência através da tecnologia. 
+  Analista de Sistemas apaixonado por dados, inovação e soluções eficientes. Com experiência em Operações, Gestão e TI, focado em otimizar processos e impulsionar a eficiência através da tecnologia. 
 </p>
 
 - 📚 Pós-graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Softwares na Anhanguera;
