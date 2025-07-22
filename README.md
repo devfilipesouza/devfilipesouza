@@ -21,7 +21,7 @@ Analista de Sistemas apaixonado por dados, inovação e soluções eficientes. C
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30" title="React"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" height="30" title="Next.js"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" height="30" title="Ubuntu"/>
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" height="30" title="SAP"/>
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" height="40" title="SAP"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="30" title="Terminal">
 </p>
 
