@@ -12,13 +12,6 @@
 - 🌱 Atualmente estou aprofundando meus conhecimentos em Sistemas SAP, Cloud, Devops e QA
 - 📫 Você pode me encontrar no LinkedIn!
 
-## 🔗 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/filipe-souza-925077234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:filipe.svito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
-
 ## 🚀 Languages and Tools:</summary>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
@@ -32,8 +25,13 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" title="Arduino" alt="Arduino"/></code>
 
-
 ## ⚡ Github Stats</b></summary>
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfilipesouza&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
 </div>
+
+## 🔗 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/filipe-souza-925077234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:filipe.svito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
