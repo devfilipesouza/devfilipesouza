@@ -5,7 +5,7 @@ Analista de Sistemas apaixonado por dados, inovação e soluções eficientes. C
 - 📚 Pós-graduando em **Engenharia de Software com Ênfase em Qualidade e Teste** na Anhanguera.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Estácio Recife.
 - 🚀 Participando do **Bootcamp Santander 2025 - Backend com Java**.
-- 🌱 Explorando ativamente **Sistemas SAP, Cloud (AWS/Azure), DevOps e práticas de QA**.
+- 🌱 Explorando **Sistemas SAP, Cloud (AWS/Azure), DevOps e práticas de QA**.
 
 ---
 
