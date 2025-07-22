@@ -48,10 +48,12 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
 </p>
 
 ---
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfilipesouza&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Estatísticas do GitHub de Filipe Souza"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfilipesouza&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Linguagens mais usadas por Filipe Souza"/>
 </div>
+
 ---
 
 ## 📫 Entre em Contato
