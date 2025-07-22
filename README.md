@@ -8,7 +8,7 @@
 
 -  📚 Atualmente Pós-graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Softwares
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Estácio Recife
-- Bootcamp Santander Open Academy 2025 - Java Backend
+- 👨‍💻 Participando do Bootcamp Santander Open Academy 2025 - Java Backend
 - 🌱 Atualmente estou aprofundando meus conhecimentos em Sistemas SAP, Cloud, Devops e QA
 - 📫 Você pode me encontrar no LinkedIn!
 
