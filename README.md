@@ -15,9 +15,6 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="30" title="Java"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="30" title="Spring"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="30" title="Python"/>
   </a>
@@ -32,6 +29,9 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
   </a>
   <a href="https://www.sap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" height="30" title="SAP"/>
+  </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="30" title="Spring"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30" title="React"/>
