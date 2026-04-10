@@ -13,10 +13,11 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
 
 | Bootcamp/Formação | Instituição | Tecnologias | Ano
 | :--- | :--- | :--- | :--- |
-| **GitHub Copilot e Azure Serverless** | Microsoft/DIO |  | 2026 
-| **Java Cloud Journey** | Accenture/DIO | `Java`, `Spring Boot`, `AWS` | 2025/2026 
+| **GitHub Copilot e Azure Serverless** | Microsoft/DIO |  | Atual 
+| **Java Cloud Journey** | Accenture/DIO | `Java`, `Spring Boot`, `AWS` | Atual
 | **Santander Academy - Backend em Java** | DIO | `Java`, `Spring Boot`, `AWS` | 2025
 | **Especialista SQL Server** | Udemy | `SQL`, `T-SQL`, `DBA` |
+| **Santander Academy - Python Basics** | ADA Tech | `Phyton` | 2024
 | **Monitoramento de Infraestrutura** | Interno | `Grafana`, `Prometheus`, `Microsoft Exporter` |
 
 ---
