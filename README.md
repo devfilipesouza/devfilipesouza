@@ -9,20 +9,6 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
 
 ---
 
-## 🎓 Últimos Bootcamps & Formações
-
-| Bootcamp/Formação | Instituição | Tecnologias | Ano
-| :--- | :--- | :--- | :--- |
-| **QA na Prática** | Treina Recife | `QA`, `Python`, `Automação`, `Postman` , `Selenium` | Em andamento
-| **GitHub Copilot e Azure Serverless** | Microsoft/DIO |  | Em andamento
-| **Java Cloud Journey** | Accenture/DIO | `Java`, `Spring Boot`, `AWS` | Em andamento
-| **Santander Academy - Backend em Java** | DIO | `Java`, `Spring Boot`, `AWS` | 2025
-| **Especialista SQL Server** | Udemy | `SQL`, `T-SQL`, `DBA` | 2024
-| **Santander Academy - Python Basics** | ADA Tech | `Phyton` | 2024
-| **Monitoramento de Infraestrutura** | Interno | `Grafana`, `Prometheus`, `Microsoft Exporter` | 2024
-
----
-
 ## 🛠️ Ferramentas e Tecnologias
 
 <p align="left">
@@ -63,10 +49,17 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfilipesouza&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Estatísticas do GitHub de Filipe Souza"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfilipesouza&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Linguagens mais usadas por Filipe Souza"/>
-</div>
+## 🎓 Últimos Bootcamps & Formações
+
+| Bootcamp/Formação | Instituição | Tecnologias | Ano
+| :--- | :--- | :--- | :--- |
+| **QA na Prática** | Treina Recife | `QA`, `Python`, `Automação`, `Postman` , `Selenium` | Em andamento
+| **GitHub Copilot e Azure Serverless** | Microsoft/DIO |  | Em andamento
+| **Java Cloud Journey** | Accenture/DIO | `Java`, `Spring Boot`, `AWS` | Em andamento
+| **Santander Academy - Backend em Java** | DIO | `Java`, `Spring Boot`, `AWS` | 2025
+| **Especialista SQL Server** | Udemy | `SQL`, `T-SQL`, `DBA` | 2024
+| **Santander Academy - Python Basics** | ADA Tech | `Phyton` | 2024
+| **Monitoramento de Infraestrutura** | Interno | `Grafana`, `Prometheus`, `Microsoft Exporter` | 2024
 
 ---
 
