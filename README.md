@@ -27,9 +27,6 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="30" title="SQL Server"/>
   </a>
-  <a href="https://www.sap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" height="30" title="SAP"/>
-  </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="30" title="Spring"/>
   </a>
