@@ -50,6 +50,7 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
 
 | Bootcamp/Formação | Instituição | Tecnologias | Ano
 | :--- | :--- | :--- | :--- |
+| **QA Engineer** | Mateacademy | `Javascript`, `Python`, `Automação`, `IA`, `Playwright` , `SQL` | Em andamento
 | **QA na Prática** | Treina Recife | `QA`, `Python`, `Automação`, `Postman` , `Selenium` | Em andamento
 | **GitHub Copilot e Azure Serverless** | Microsoft/DIO |  | Em andamento
 | **Java Cloud Journey** | Accenture/DIO | `Java`, `Spring Boot`, `AWS` | Em andamento
