@@ -1,6 +1,6 @@
 # Olá, eu sou o Filipe! 👋
 
-Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de soluções eficientes. Com experiência em Operações, Gestão e TI, focado em Garantia de Qualidade e  Engenharia de Confiabilidade (SRE). Atualmente, aprofundo meus conhecimentos em Quality Assurance (QA) e Cloud Infrastructure (Azure) , unindo a cultura DevOps à automação de processos com Python e Java. Acredito que a tecnologia deve ser autogerenciável e observável, por isso foco em implementar soluções de monitoramento e observabilidade que antecipam falhas e garantem a continuidade do negócio.
+Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de soluções eficientes. Com experiência em Operações, Gestão e TI, focado em Garantia de Qualidade e  Engenharia de Confiabilidade (SRE). Atualmente, aprofundo meus conhecimentos em Quality Assurance (QA) e Cloud Infrastructure (Azure) , unindo a cultura DevOps à automação de processos com Python e Javascript. Acredito que a tecnologia deve ser autogerenciável e observável, por isso foco em implementar soluções de monitoramento e observabilidade que antecipam falhas e garantem a continuidade do negócio.
 
 - 📚 Pós-graduando em **Engenharia de Software com Ênfase em Qualidade e Teste** na Faculdade Anhanguera.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá.
