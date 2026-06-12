@@ -51,11 +51,11 @@ Sou um Analista de Sistemas apaixonado por dados, inovação e pela criação de
 | Bootcamp/Formação | Instituição | Tecnologias | Ano
 | :--- | :--- | :--- | :--- |
 | **QA Engineer** | Mate Academy | `Javascript`, `Python`, `Automação`, `IA`, `Playwright` , `SQL` | Em andamento
-| **QA na Prática** | Treina Recife | `QA`, `Python`, `Automação`, `Postman` , `Selenium` | Em andamento
 | **GitHub Copilot e Azure Serverless** | Microsoft/DIO |  | Em andamento
 | **Java Cloud Journey** | Accenture/DIO | `Java`, `Spring Boot`, `AWS` | Em andamento
+| **QA na Prática** | Treina Recife | `QA`, `Python`, `Automação`, `Postman` , `Selenium` | 2026
 | **Santander Academy - Backend em Java** | DIO | `Java`, `Spring Boot`, `AWS` | 2025
-| **Especialista SQL Server** | Udemy | `SQL`, `T-SQL`, `DBA` | 2024
+| **Especialista SQL Server** | DIO | `SQL`, `T-SQL`, `DBA` | 2024
 | **Santander Academy - Python Basics** | ADA Tech | `Phyton` | 2024
 | **Monitoramento de Infraestrutura** | Interno | `Grafana`, `Prometheus`, `Microsoft Exporter` | 2024
 
